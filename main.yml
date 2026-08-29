@@ -1,3 +1,0 @@
-- name: Install dependencies
-  run: pip install google-auth-oauthlib google-api-python-client
-  
